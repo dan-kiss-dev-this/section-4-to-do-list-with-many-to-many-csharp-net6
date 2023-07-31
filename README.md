@@ -59,3 +59,7 @@ Install the tools that are introduced in [this series of lessons on LearnHowToPr
 **6_data_from_multiple_db_tables**: This branch includes the code we added after working through the following lesson:
 
 - https://www.learnhowtoprogram.com/c-and-net/many-to-many-relationships/creating-a-splash-page-with-data-from-multiple-database-tables
+
+git branch -M main
+git remote add origin https://github.com/dan-kiss-dev-this/test1.git
+git push -u origin main
